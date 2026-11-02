@@ -1,0 +1,4 @@
+"Configuration","ProcessingElements","GenericSynthesizedCells","SynthesisTool","TechnologyMapping"
+"2x2","4","4053","Yosys","Generic"
+"4x4","16","15981","Yosys","Generic"
+"8x8","64","64214","Yosys","Generic"
